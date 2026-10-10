@@ -1,9 +1,0 @@
-node_modules
-dist
-.env.local
-*.local
-.vercel
-node_modules/
-.env
-**/.env
-decimal-notation-money/
